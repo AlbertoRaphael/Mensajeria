@@ -1,0 +1,34 @@
+# log files
+logs
+*.log
+
+# runtime data
+pids
+*.pid
+*.seed
+
+# directories and files
+node_modules/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+
+# IDE configuration files
+.idea/
+*.iml
+
+# test files
+tests/
+__tests__/
+*.spec.*
+
+# production build files
+dist/
+build/
+
+# coverage files
+coverage/
