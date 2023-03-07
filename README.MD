@@ -1,6 +1,6 @@
-## _Birdperson_
+## _Mensajeria_
 
-Birdperson is a microservice that allows send emails.
+Mensajeria is a microservice that allows send emails.
 
 ## Installation
 
